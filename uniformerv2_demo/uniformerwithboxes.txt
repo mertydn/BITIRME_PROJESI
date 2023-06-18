@@ -1,0 +1,5 @@
+juggling soccer ball,0.994175136089325
+kicking soccer ball,0.0009048277861438692
+shooting goal (soccer),0.0006194835295900702
+drop kicking,0.0003884526086039841
+dribbling basketball,0.0001649202749831602

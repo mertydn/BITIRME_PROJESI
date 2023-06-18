@@ -1,0 +1,6 @@
+torch==1.9.1
+torchvision 
+einops 
+timm
+Pillow
+decord
